@@ -85,7 +85,7 @@
             "name": "1007"
         }
     ],
-    "links": [
+    "edges": [
         {
             "source": "1431",
             "target": "1041"
